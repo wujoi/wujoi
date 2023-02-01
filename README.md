@@ -5,7 +5,7 @@
 ### About Me:
 - 👩‍💻 Actively training in the GHP bootcamp
 - :rocket: Background in mechanical engineering (manufacturing & defense)
-- 🫰🏻🌏 Let’s collaborate in recognition of past & future generations
+- 🫰🏻🌏 Let’s collaborate on sustainability
 - 💬 Ask me about:
   - 🍜 At-home ramen hacks
   - 🎲 The 9 moral alignments
