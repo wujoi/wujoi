@@ -23,7 +23,7 @@
 
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,postgres,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,postgres,sequelize)](https://skillicons.dev)
 
 <br>
 
