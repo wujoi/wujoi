@@ -27,6 +27,6 @@
 
 <br>
 
-<img src="https://github-readme-stats-wujoi.vercel.app/api/top-langs/?username=wujoi&count_private=true&&theme=radical"/>
+<img src="https://github-readme-stats-sigma-five-wujoi.vercel.app/api/top-langs/?username=wujoi&count_private=true&&theme=radical"/>
 
 #### *The way you make an omelet reveals your character. - Anthony Bourdain* ####
