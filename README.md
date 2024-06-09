@@ -3,7 +3,7 @@
 ## Welcome
 
 ### About Me:
-- 👩‍💻 Actively training in the GHP bootcamp
+- 👩‍💻 Full Stack SWE
 - :rocket: Background in mechanical engineering (manufacturing & defense)
 - 🫰🏻🌏 Let’s collaborate on sustainable solutions
 - 💬 Ask me about:
