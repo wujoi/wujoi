@@ -22,10 +22,10 @@
 </div>
 
 
-### Skills:
+<!-- ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,redux,postgres,sequelize)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,tailwind,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,tailwind,html,css,)](https://skillicons.dev) -->
 
 <br>
 
